@@ -10,7 +10,7 @@ import os
 question = input('Question: ') 
   
 # App id obtained by the above steps 
-app_id = 'HAQRKG-PLRP8P4RKK'
+app_id = 'APPID'
   
 # Instance of wolf ram alpha  
 # client class 
